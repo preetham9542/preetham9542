@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SAI PREETHAM THOTA</h1>
 <h3 align="center">A passionate engineer eager to learn and contribute. Currently working as Trainee Associate Software Engineer at Mphasis</h3>
 
-- 🔭 I’m currently working on [.Net](https://github.com/preetham9542/Insurance_Policy_Management_System.git)
+- 🔭 I’m currently working on [Full stack .Net application](https://github.com/preetham9542/Insurance_Policy_Management_System.git)
 
 - 🌱 I’m currently learning **.Net Development and MERN Stack**
 
